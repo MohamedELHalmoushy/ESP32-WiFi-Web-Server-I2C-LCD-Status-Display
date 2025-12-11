@@ -58,8 +58,8 @@ When a client visits the ESP32 IP (e.g., `192.168.x.x`), it loads a webpage that
 
 | Parameter | Value |
 |----------|--------|
-| SSID | `DESKTOP-1GQ0MNO 1520` |
-| Password | `0v6863C*` |
+| SSID | `Your Name` |
+| Password | `Your Password` |
 | Server Port | 80 |
 
 🖥️ Serial Monitor Output
